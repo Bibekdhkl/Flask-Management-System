@@ -63,10 +63,4 @@ Now the server is live and we can start working on the project.
 - we first clone a Admin Template of our choice and then take out selective folders and files usually index.html, login.html, register.html > templates folder & other JS/CSS/img/scss/vendor folder > static folder
 - Here, we have used {%block variable%}{%endblock%}  which is a Jinga template engine
 
-## Resources
-- Learning Python -> https://overiq.com/python-101/
-- Admin Template -> https://startbootstrap.com/theme/sb-admin-2
-- We search for [.gitignore file for flask application](https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore) then add inside `.gitignore`
-- Jinga Template Engine -> https://palletsprojects.com/p/jinja/
-
 
